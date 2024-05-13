@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/coen-h">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coen-h&repo=github-readme-stats&theme=transparent" />
+</a>
