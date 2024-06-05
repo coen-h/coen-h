@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<p>pretty bad at coding rn, but you know, im getting better</p>
+<p>learning react right now</p>
 <a href="https://github.com/coen-h">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=coen-h&theme=dark&show_icons=true" />
 </a>
