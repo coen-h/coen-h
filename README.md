@@ -7,6 +7,6 @@
 <a href="https://github.com/coen-h/zmov">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coen-h&repo=zmov&theme=dark&show_icons=true" />
 </a>
-<a href="https://github.com/coen-h/website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coen-h&repo=website&theme=dark&show_icons=true" />
+<a href="https://github.com/coen-h/evolocity">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coen-h&repo=evolocity&theme=dark&show_icons=true" />
 </a>
